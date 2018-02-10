@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\fabia\desktop\computer science\projects\c++\hwk3v2\hwk3v2\source.cpp(40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\fabia\desktop\computer science\projects\c++\hwk3v2\hwk3v2\source.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hwk3v2.vcxproj -> C:\Users\fabia\Desktop\Computer Science\Projects\C++\hwk3v2\Debug\hwk3v2.exe
